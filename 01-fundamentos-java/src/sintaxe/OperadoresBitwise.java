@@ -1,3 +1,5 @@
+package sintaxe;
+
 public class OperadoresBitwise {
 
 

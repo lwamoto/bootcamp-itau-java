@@ -1,4 +1,4 @@
-package exercicios;
+package sintaxe.exercicios;
 
 import java.util.Scanner;
 

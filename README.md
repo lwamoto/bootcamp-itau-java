@@ -17,12 +17,12 @@ Repositório dedicado ao registro de estudos, exercícios e projetos desenvolvid
 ```text
 ├── 01-fundamentos-java/
 │   └── src/
-│       ├── IntroducaoDesenvolvimento.java
-│       ├── TiposPrimitivos.java
-│       ├── OperadoresAritmeticos.java
-│       ├── OperadoresAtribuicaoLogicos.java
-│       ├── OperadoresBitwise.java
-│       └── exercicios/
+│       ├── sintaxe.sintaxe.exercicios.exercicios.IntroducaoDesenvolvimento.java
+│       ├── sintaxe.sintaxe.exercicios.exercicios.TiposPrimitivos.java
+│       ├── sintaxe.sintaxe.exercicios.exercicios.OperadoresAritmeticos.java
+│       ├── sintaxe.sintaxe.exercicios.exercicios.OperadoresAtribuicaoLogicos.java
+│       ├── sintaxe.sintaxe.exercicios.exercicios.OperadoresBitwise.java
+│       └── sintaxe.sintaxe.exercicios.exercicios/
 │           ├── Exercicio01Idade.java
 │           ├── Exercicio02AreaQuadrado.java
 │           ├── Exercicio03AreaRetangulo.java
@@ -46,4 +46,5 @@ Repositório dedicado ao registro de estudos, exercícios e projetos desenvolvid
 
 Desenvolvido por **Gustavo Iwamoto** 
 
-```
+
+

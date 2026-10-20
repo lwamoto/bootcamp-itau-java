@@ -1,6 +1,5 @@
-package exercicios;
+package sintaxe.exercicios;
 
-import java.awt.*;
 import java.util.Scanner;
 
 public class Exercicio02AreaQuadrado {
