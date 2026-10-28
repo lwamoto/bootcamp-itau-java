@@ -3,7 +3,6 @@ package classes_encapsulamento.exercicios.conta_bancaria;
 //Get vê
 //Set edita
 
-
 public class ContaBancaria {
 
     private double balance;
@@ -30,8 +29,6 @@ public class ContaBancaria {
     ///CHEQUE ESPECIAL VERIFICACAO 6
     boolean isUsingOverdraft(){
         return balance < 0;
-
-
     }
 
     ///DEPOSITO 3

@@ -15,7 +15,6 @@ public class Exercicio01ContaBancaria {
         //Definindo o primeiro deposito
         System.out.println("Valor primeiro Deposito:");
         var valueFirst = scanner.nextDouble();
-
         //Chamando o construtor com o valor do deposito
         ContaBancaria japa = new ContaBancaria(valueFirst);
         while (!repeticao){
