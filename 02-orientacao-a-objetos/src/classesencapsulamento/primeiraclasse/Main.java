@@ -1,4 +1,4 @@
-package classes_encapsulamento.primeira_classe;
+package classesencapsulamento.primeiraclasse;
 
 public class Main {
 

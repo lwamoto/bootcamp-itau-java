@@ -1,4 +1,4 @@
-package classes_encapsulamento.exercicios.conta_bancaria;
+package classesencapsulamento.exercicios.contabancaria;
 
 import java.util.Scanner;
 

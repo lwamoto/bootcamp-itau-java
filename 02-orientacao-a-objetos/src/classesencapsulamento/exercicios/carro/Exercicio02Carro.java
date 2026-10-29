@@ -1,4 +1,4 @@
-package classes_encapsulamento.exercicios.carro;
+package classesencapsulamento.exercicios.carro;
 
 import java.util.Scanner;
 

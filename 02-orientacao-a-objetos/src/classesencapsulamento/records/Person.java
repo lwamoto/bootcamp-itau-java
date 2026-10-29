@@ -1,4 +1,4 @@
-package classes_encapsulamento.records;
+package classesencapsulamento.records;
 
 public record Person(String name, int age) {
     //CONSTRUTOR COMPCTO

@@ -1,10 +1,11 @@
-package classes_encapsulamento.exercicios.carro;
+package classesencapsulamento.exercicios.carro;
 
 public class Carro {
 
     private boolean engineOn ;
     private int speed;
     private int gear;
+
     Carro(){
         engineOn = false;
         gear = 0;

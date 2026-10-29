@@ -1,4 +1,4 @@
-package classes_encapsulamento.records;
+package classesencapsulamento.records;
 
 public class Main {
 
