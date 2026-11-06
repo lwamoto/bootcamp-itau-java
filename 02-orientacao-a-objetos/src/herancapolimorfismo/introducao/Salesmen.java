@@ -19,7 +19,7 @@ public non-sealed class Salesmen extends Employee{
 
     }
 
-    public Salesmen() {
+    protected Salesmen() {
     }
 
     @Override
